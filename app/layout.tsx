@@ -8,7 +8,7 @@ import ActiveStatus from "./_components/active-status";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Messenger Clone",
+  title: "Tok",
   description: "Messenger Clone",
 };
 
