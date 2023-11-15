@@ -118,7 +118,6 @@ const SettingsModal = ({ isOpen, onClose, currentUser }: Props) => {
             </Button>
           </div>
         </div>
-        Save
       </form>
     </Modal>
   );
