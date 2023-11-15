@@ -113,7 +113,9 @@ const SettingsModal = ({ isOpen, onClose, currentUser }: Props) => {
             <Button disabled={isLoading} secondary onClick={onClose}>
               Cancel
             </Button>
-            <Button disabled={isLoading} type="submit"></Button>
+            <Button disabled={isLoading} type="submit">
+              Save
+            </Button>
           </div>
         </div>
         Save
